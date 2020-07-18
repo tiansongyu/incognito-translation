@@ -1,0 +1,27 @@
+{
+	"main_title":"序列号删除器，版本号1.5.2",
+	"bar_1":"主功能",
+	"bar_2":"设置",
+	"button_backup":"备份序列号",
+	"button_delete":"删除序列号",
+	"button_verfiy":"查看序列号",
+
+	"button_import":"恢复序列号",
+	"select_order":"执行选择的命令",
+	
+	"backup_make_sure":"\n\n你确定要备份序列号吗?",
+	"backup_success":"\n\n备份序列号成功\n备份序列号文件存储在 sdmc:/backup/prodinfo.bin \n请将该文件备份到电脑,恢复序列号需要用改文件",
+	"backup_fail":"\n\n备份文件失败!!",
+	
+	"delete_make_sure":"\n\n你确定要删除序列号吗?\n删除需要7-10秒钟左右\n删除过程中请不要使用switch,待显示删除成功再进入下一步",
+	"delete_success":"\n\n删除序列号文件成功",
+	"delete_fail":"\n\n删除序列号文件失败!!!",
+	
+	"verify_make_sure":"\n\n查看序列号\n",
+	"verify_success":"\n\n目前序列号为 %s\n若显示序列号大部分数字为0000000,说明删除序列号成功",
+	"verify_fail":"\n\n查看序列号失败",
+	
+	"import_make_sure":"\n\n你确定要恢复序列号吗\n恢复文件:sdmc:/backup/prodinfo.bin",
+	"import_success":"\n\n恢复序列号成功 最新序列号为%s",
+	"import_fail":"\n\n恢复序列号失败"
+}

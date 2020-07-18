@@ -1,0 +1,27 @@
+{
+	"main_title":"Incogin，version 1.5.2",
+	"bar_1":"mainfunction",
+	"bar_2":"setting",
+	"button_backup":"backup",
+	"button_delete":"delete",
+	"button_verfiy":"verfiy",
+
+	"button_import":"import",
+	"select_order":"select_order",
+	
+	"backup_make_sure":"\n\nare you sure to back up?",
+	"backup_success":"\n\nback up successfully\nthe backup file is at sdmc:/backup/prodinfo.bin \nplease save the file and copy it",
+	"backup_fail":"\n\nfail to back up !!",
+	
+	"delete_make_sure":"\n\nare you sure to delete Serial Number?\nneed about 7-10s\ndo not use the switch until dispaly the success flag",
+	"delete_success":"\n\ndelete Serial Number successfully",
+	"delete_fail":"\n\nfail to delete Serial Number!!!",
+	
+	"verify_make_sure":"\nverify\n",
+	"verify_success":"\n\nSerial Number is %s\nif the Serial Number is 0000000,then success to hack",
+	"verify_fail":"\n\ncan not verify Serial Number",
+	
+	"import_make_sure":"\n\nare you sure to import Serial Number?\nimport file is sdmc:/backup/prodinfo.bin",
+	"import_success":"\n\nsuccess to import Serial Number ,and it is %s",
+	"import_fail":"\n\nfail to import"
+}
